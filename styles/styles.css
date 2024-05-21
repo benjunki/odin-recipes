@@ -23,3 +23,14 @@ h1.index{
 #chocolate{
     background-color: brown;
 }
+.menu{
+    background-color: rgb(186, 202, 202);
+}
+#chocolate,
+#chicken,
+#lemon,
+h1,
+.menu{
+    padding: 10px;
+    margin: 20px;
+}
