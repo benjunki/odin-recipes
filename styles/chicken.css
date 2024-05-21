@@ -1,5 +1,4 @@
 body{
-    columns: 2;
     background-color: #ffa500;
     font-family: "Ubuntu Sans", sans-serif;
     align-items: center;
@@ -8,6 +7,7 @@ img{
     margin-right: auto;
     margin-left:auto;
     display: block;
+    padding: 20px auto;
 }
 h1{
     text-align: center;
@@ -16,4 +16,20 @@ h1{
 }
 a{
     color:#d8748f;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 20px auto
+}
+.div{
+    flex: 1;
+    
+    margin: 60px;
+}
+
+p{
+    font-weight: bold;
 }

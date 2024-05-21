@@ -1,5 +1,4 @@
 body{
-    columns: 2;
     background-color: #a52a2a;
     font-family: "Ubuntu Sans", sans-serif;
     align-items: center;
@@ -16,4 +15,20 @@ h1{
 }
 a{
     color:#d8748f;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 20px auto
+}
+.div{
+    flex: 1;
+    
+    margin: 60px;
+}
+
+p{
+    font-weight: bold;
 }
