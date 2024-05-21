@@ -1,0 +1,19 @@
+body{
+    columns: 2;
+    background-color: #a52a2a;
+    font-family: "Ubuntu Sans", sans-serif;
+    align-items: center;
+}
+img{
+    margin-right: auto;
+    margin-left:auto;
+    display: block;
+}
+h1{
+    text-align: center;
+    font-size: 44px;
+    background-color: #29A64D;
+}
+a{
+    color:#d8748f;
+}
