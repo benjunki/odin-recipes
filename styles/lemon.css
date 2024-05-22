@@ -23,8 +23,8 @@ h3{
 }
 .container{
     display: inline-flex;
-    padding: 5px;
-    margin: 20px auto
+    padding: 20px;
+    margin: 25px auto;
 }
 .div{
     display: inline-flex;
