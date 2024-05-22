@@ -1,8 +1,4 @@
-*{
-    box-sizing: border-box;
-    padding: 5px;
-    margin: 5px auto;
-}
+
 body{
     background-color: #ffa500;
     font-family: "Ubuntu Sans", sans-serif;
@@ -34,6 +30,7 @@ a{
     margin: 20px auto;
 }
 .div{    
+    display: inline-flex;
     margin: 20px;
 }
 
