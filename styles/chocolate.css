@@ -15,6 +15,11 @@ h1{
 }
 a{
     color:#d8748f;
+    display: block;
+    padding: 100px;
+}
+h3{
+    text-align: center;
 }
 .container{
     display: flex;
@@ -24,8 +29,7 @@ a{
     margin: 20px auto
 }
 .div{
-    flex: 1;
-    
+    display: inline-flex;
     margin: 60px;
 }
 

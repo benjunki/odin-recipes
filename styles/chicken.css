@@ -20,19 +20,21 @@ h1{
     padding: 20px;
     background-color: #0070FF;
 }
+h3{
+    text-align: center;
+}
 a{
     color:#d8748f;
+    display: block;
+    padding: 100px;
 }
 .container{
-    display: block;
-    flex: 2;
-    justify-content: center;
-    align-items: center;
+    display: inline-flex;
     padding: 20px;
-    margin: 20px auto
+    margin: 20px auto;
 }
 .div{    
-    margin: 60px;
+    margin: 20px;
 }
 
 p{

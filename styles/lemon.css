@@ -14,15 +14,20 @@ h1{
     background-color: #7D00FF;
 }
 a{
+    display: block;
     color:#d8748f;
+    padding: 100px;
+}
+h3{
+    text-align: center;
 }
 .container{
-    justify-content: center;
-    align-items: center;
+    display: inline-flex;
     padding: 5px;
     margin: 20px auto
 }
 .div{
+    display: inline-flex;
     margin: 60px;
 }
 
