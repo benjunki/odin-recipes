@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 5px auto;
+}
 body{
     background-color: #ffa500;
     font-family: "Ubuntu Sans", sans-serif;
@@ -12,21 +17,21 @@ img{
 h1{
     text-align: center;
     font-size: 44px;
+    padding: 20px;
     background-color: #0070FF;
 }
 a{
     color:#d8748f;
 }
 .container{
-    display: inline;
+    display: block;
+    flex: 2;
     justify-content: center;
     align-items: center;
-    padding: 5px;
+    padding: 20px;
     margin: 20px auto
 }
-.div{
-    flex: 2;
-    
+.div{    
     margin: 60px;
 }
 
