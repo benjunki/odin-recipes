@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: #d8748f;
     font-family: "Ubuntu Sans", sans-serif;
@@ -33,4 +36,5 @@ h1,
 .menu{
     padding: 10px;
     margin: 20px;
+    border: 20px;
 }

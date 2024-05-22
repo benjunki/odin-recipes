@@ -18,14 +18,14 @@ a{
     color:#d8748f;
 }
 .container{
-    display: flex;
+    display: inline;
     justify-content: center;
     align-items: center;
     padding: 5px;
     margin: 20px auto
 }
 .div{
-    flex: 1;
+    flex: 2;
     
     margin: 60px;
 }
